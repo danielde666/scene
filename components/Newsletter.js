@@ -144,7 +144,7 @@ export default function NewsletterSignup() {
             <div className="mb-8">
               <div className="text-6xl text-green-400 mb-4">✓</div>
               <h2 className="text-3xl font-semibold text-white mb-4">
-                Welcome to Xensilico!
+                WELCOME TO SCENE
               </h2>
               <p className="text-gray-300 mb-8">
                 Your account has been created successfully. You're now ready to explore our platform.

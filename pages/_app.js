@@ -33,26 +33,26 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>XENSILICO</title>
-        <meta name="description" content="XENSILICO" />
+        <title>SCENE</title>
+        <meta name="description" content="SCENE" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
 
         {/* Open Graph */}
-        <meta property="og:title" content="XENSILICO" />
-        <meta property="og:description" content="XENSILICO" />
+        <meta property="og:title" content="SCENE" />
+        <meta property="og:description" content="SCENE" />
         <meta property="og:image" content="/favicon.ico" />
-        <meta property="og:url" content="https://xensilico.ai" />
+        <meta property="og:url" content="https://scene.place" />
         <meta property="og:type" content="website" />
 
         {/* Twitter Card */}
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="XENSILICO" />
-        <meta name="twitter:description" content="XENSILICO" />
+        <meta name="twitter:title" content="SCENE" />
+        <meta name="twitter:description" content="SCENE" />
         <meta name="twitter:image" content="/favicon.ico" />
 
         {/* Favicon */}
         <link rel="icon" href="/favicon.ico" />
-        <meta name="theme-color" content="#000000" />
+        <meta name="theme-color" content="#ffffff" />
 
         {/* Founders Grotesk Font */}
         <link href="https://www.beingl.ink/files/jii-management/fonts/web/foundersgrotesk.css" rel="stylesheet" />
