@@ -20,7 +20,7 @@ export default function WelcomeScreen({ onLogin, onSignUp }) {
       
         
         <p className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto">
-          AI ADVISORY BOARD
+          SCENE
         </p>
         
         {/* Login and Sign Up Buttons */}
